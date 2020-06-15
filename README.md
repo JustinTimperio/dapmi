@@ -1,2 +1,1 @@
-# dapmi
-Distribution Agnostic Package Management Interface
+# DAMPI: Distribution Agnostic Package Management Interface
